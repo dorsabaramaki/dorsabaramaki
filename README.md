@@ -11,8 +11,8 @@ I turn business questions into data-driven answers. With a background in Industr
 - **Business Analysis:** KPI tracking, process improvement, business plan development, stakeholder communication
 
 ## 💼 Background
-- Data Analyst @ Pazhouhesh Bazar Emrouz (part of DnaUnion Holding)
-- Strategy Analyst @ Hesabrayan Pars — led data analysis, dashboard design, and strategic planning initiatives
+- Data Analyst @ EMRC (part of dnaUnion Holding)
+- Strategy Analyst @ Hesabrayan Pars — data analysis, dashboard design, and strategic planning initiatives
 - BSc in Industrial Engineering, Alzahra University
 
 ## 📂 Featured Projects
