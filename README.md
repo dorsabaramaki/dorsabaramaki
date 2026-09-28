@@ -18,10 +18,10 @@ I turn business questions into data-driven answers. With a background in Industr
 ## 📂 Featured Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Relational Database Design](#) | Designed and implemented a normalized relational database from scratch | SQL, T-SQL |
-| [Adventure Works Dashboard](#) | Power BI dashboard analyzing sales performance, customer behavior, and product trends | Power BI, DAX |
-| *(more coming soon)* | | |
+| Designed and implemented a normalized relational database for My related course. | SQL, T-SQL |
+| [University students Dashboard](#) | Power BI dashboard analyzing students performance, teachers behavior, and GPA trends | Power BI, DAX |
+
 
 ## 📫 Let's connect
-- LinkedIn:
+- LinkedIn:dorsabarmaki
 - Email: Ddorsabarmaki@gmail.com
