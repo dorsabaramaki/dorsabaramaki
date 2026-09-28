@@ -19,9 +19,12 @@ I turn business questions into data-driven answers. With a background in Industr
 | Project | Description | Tools |
 |---|---|---|
 | Designed and implemented a normalized relational database for My related course. | SQL, T-SQL |
-| [University students Dashboard](#) | Power BI dashboard analyzing students performance, teachers behavior, and GPA trends | Power BI, DAX |
+| [University students Dashboard](#) | Power BI dashboard analyzing students performance, teachers behavior, and GPA trends | Power BI, DAX
+| [Canada Crime Dashboard](#) Power BI dashboard exploring Canadian crime trends, types, and provincial rates from 2000 to 2020.
+[Student_Dashboard_DorsaBarmaki.pdf](https://github.com/user-attachments/files/32758656/Student_Dashboard_DorsaBarmaki.pdf)
+[Canada_Crime_DorsaBarmaki.pdf](https://github.com/user-attachments/files/32758645/Canada_Crime_DorsaBarmaki.pdf)
 
 
 ## 📫 Let's connect
 - LinkedIn:dorsabarmaki
-- Email: Ddorsabarmaki@gmail.com
+- Email: dorsabarmaki@gmail.com
